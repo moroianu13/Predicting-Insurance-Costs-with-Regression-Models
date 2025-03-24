@@ -61,7 +61,7 @@ This project explores and models a real-world dataset to predict **medical insur
 ---
 
 ## 📁 Files
-- `CLEANED_Insurance_Cost_Analysis.ipynb` – Fully executed notebook with all steps
+- `Data Analytics for Insurance Cost Data Set.ipynb` – Fully executed notebook with all steps
 - `medical_insurance_dataset.csv` – Dataset used for training and evaluation
 
 ---

@@ -69,7 +69,7 @@ This project explores and models a real-world dataset to predict **medical insur
 ## 🚀 How to Run
 1. Clone this repository
 2. Make sure you have Jupyter and required Python libraries installed
-3. Run the notebook `CLEANED_Insurance_Cost_Analysis.ipynb`
+3. Run the notebook `Data Analytics for Insurance Cost Data Set.ipynb`
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
